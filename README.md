@@ -29,3 +29,4 @@ The project will be developed on the final 3 labs.
 3. Human Activity Recognition
 4. Parkinson's Disease Detection
 5. Cardiac Single Proton Emission Computed Tomography Images
+6. Dermatology
